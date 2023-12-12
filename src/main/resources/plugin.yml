@@ -1,0 +1,4 @@
+name: KotlinEconomy
+version: '${version}'
+main: org.example.kot.kotlineconomy.KotlinEconomy
+api-version: '1.19'
